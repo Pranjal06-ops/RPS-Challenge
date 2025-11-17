@@ -1,6 +1,5 @@
 # Rock-Paper-Scissors AI Challenge
 
-This is my submission for the freeCodeCamp Rock-Paper-Scissors AI challenge.
 
 ## Features
 - Tracks opponent moves
